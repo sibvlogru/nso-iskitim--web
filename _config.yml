@@ -1,4 +1,4 @@
-minimal_mistakes_skin: '{theme}'
+minimal_mistakes_skin: air
 locale: en-US
 title: 'Искитим сегодня'
 title_separator: '-'
@@ -9,7 +9,7 @@ url: null
 baseurl: null
 repository: null
 teaser: null
-logo: null
+logo: 'https://i2.wp.com/rberega.info/wp-content/uploads/2019/01/Iskitim.jpg?fit=300%2C300'
 masthead_title: null
 words_per_minute: 200
 comments:
